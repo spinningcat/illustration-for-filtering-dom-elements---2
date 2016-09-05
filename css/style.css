@@ -1,0 +1,211 @@
+html, body {margin: 0; padding: 0; overflow-x:hidden;}
+.mainterritory {
+    position:absolute;
+    /* width:100ww;*/
+    width:100vw;
+   
+   
+   
+ 
+    background-color: blue;
+}
+.mainterritory .territory {
+    float:left;
+    border: 1px solid black;
+    margin-top:15px;
+    margin-left:-16px;
+    margin-right:0;
+    margin-bottom:15px;
+    padding:0;
+    background-color:#F00;
+    opacity:0.8;
+    width:120px;
+    overflow-y:scroll;
+    height:100vh;
+    /* height:100vh;*/
+    transition: width 2s;
+}
+
+.mainterritory .territory .buttons {
+    float:left;
+    word-spacing:5px;
+    margin-top:5px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom:20px;
+    padding:5px;
+}
+.mainterritory .territory .buttons .buttonClass{
+    margin-top:10px;
+    padding:5px;
+}
+.mainterritory .showhidebuttonterritory
+{
+  float:left;
+  width:5px;
+    height:10px;
+    background-color:yellow;
+
+   
+}
+.mainterritory .showhidebuttonradiobox
+{
+  float:right;
+  margin-right:17px;
+  width:5px;
+    height:10px;
+    background-color:yellow;
+
+   
+}
+.mainterritory .showhidebuttonrtablefilter
+{
+  float:right;
+  margin-top:220px;
+    margin-right:-14px;
+  width:5px;
+    height:10px;
+    background-color:yellow;
+
+   
+}
+
+.mainterritory .territory.enlarge 
+{
+    float:left;
+     width: 80%;
+  
+    font-size: 24px;
+    border-left-width: 5px;
+    margin-top:10px;
+    margin-left:-18px;
+    margin-right:2px;
+    margin-bottom:10px;
+}
+.mainterritory .territory.enlarge .buttons .buttonClass.displaydifferent
+{
+
+    margin-top:-100px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:10px;
+  padding:5px;
+}
+.buttons .buttonClass:hover {
+    border-bottom-style: dotted;
+}
+.seperator {
+    margin:1em;
+}
+.arrow {
+    position:absolute;
+    float:right;
+    margin-top:-12.5px;
+    margin-right:0;
+    margin-left:-12px;
+  
+    background : url("https://cdn4.iconfinder.com/data/icons/defaulticon/icons/png/256x256/arrow-right.png");
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:1.5em;
+    ;
+    height:1.5em;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    /* margin: 5px 25px;*/
+}
+.reverseArrow {
+       position:absolute;
+    float:right;
+    margin-top:-20px;
+    margin-right:0;
+    margin-left:-15px;
+    background: url("http://www.stephaniep.com/resources/Reverse%20arrow.jpg");
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:1em;
+    ;
+    height:1em;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+.text {
+    position:absolute;
+    float:right;
+    margin-top:-15px;
+    margin-left:10px;
+    font-size:20px;
+    font-weight:bold;
+    /*  margin-left:20px;*/
+}
+
+.hidden {
+    display:none;
+   
+}
+ .radiobuttondiv {
+    float:right;
+    border: 1px solid black;
+    width:100px;
+    margin-top:15px;
+    margin-left: 5px;
+    margin-right:-19px;
+     margin-bottom:20px;
+    background-color:orange;
+     word-spacing:5px;
+}
+
+/*.radiobuttondiv .radiobuttons input[type="radio"] {
+    /*display:block;*/
+   /*margin-right:30px;*/
+  /*  float:left;*/
+/*}*/
+.mainterritoy .radiobuttondiv .radiobuttons input[type="checkbox"] .value {
+ 
+
+}
+/*.mainterritory .radiobuttondiv .radiobuttons input[type="radio"] .value {
+    /* display:block;*/
+  /*  float:right;
+    margin-right:10px;
+}*/
+
+
+@-webkit-keyframes noneOut {
+    100% {
+        opacity: 1;
+    }
+}
+@-moz-keyframes noneOut {
+    100% {
+        opacity: 1;
+    }
+}
+@-o-keyframes noneOut {
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes noneOut {
+    100% {
+        opacity: 1;
+    }
+}
+.noneOut {
+    -webkit-animation-name: noneOut;
+    -moz-animation-name: noneOut;
+    -o-animation-name: noneOut;
+    animation-name: noneOut;
+}
+.animated.noneOut {
+    -webkit-animation-duration: 0.01s;
+    -moz-animation-duration: 0.01s;
+    -o-animation-duration: 0.01s;
+    animation-duration: 0.01s;
+}
