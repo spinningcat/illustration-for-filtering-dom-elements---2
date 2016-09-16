@@ -4,25 +4,22 @@ English Explanation
 
 Functionality Overview
 
-Some different functionalities can be seen here. I intend to enlist these functionalities 
-before diving into details.
+Some different functionalities can be seen here. I intend to list these functionalities before going into details.
 
 - Sort Compatibility 
 - Show/Hide Capability 
 - Filtering Capability 
 - Letter Animation: 
-- Expand/Narrow Compatibility.
+- Expand/Narrow Compatibility. 
 
-Working demo: http://jsfiddle.net/hellyeah/8L49h2rn/
-
-Semantic Overview
+Semantical Overview
 
 Sort Compatibility:
 
 This frontend development is also part of Monitoring software.
-Lets briefly touch on the features of this program that i have enlisted them above.
+Lets briefly touch on the features of this program that I have listed above.
 
-The buttons are sorted by default accoding to its color. 
+The buttons are, by default, sorted according to their color. 
 The order is Red, Orange, Blue, Gray , Green.
 Red -> Failure
 Orange -> Performance Problem
@@ -32,29 +29,25 @@ Green -> Success
 
 Show/Hide Compatibility:
 
-- When you click button it will be hidden and when you click other button it will be hidden
-too. But Ther other button that was hidden perviously will come back.
-
-- Also You can shot/hide everydiv by clicking button above.
+When you click button it will be hidden and when you click other button it will be hidden too. But the other button that was hidden previously will come back.
 
 Filtering Compatibility:
 
-Filtering compatibility comes in handy if you want to see "buttons that has spesific 
-colors on it". You see the radio buttons on the right and top side of the page you just 
-click and the buttons with spesific colors appear only.
+- Filtering compatibility comes in handy if you want to see only buttons with a specific color. You can use the checkboxes on the topright of the page to make a selection.
+
+- Also you can show/hide every div by clicking button above.
 
 Letter Animation
 
-i used http://textillate.js.org/ . This letter animation is for noticing person/people 
-who use that system. In case of emergency on the other hand, any system monitoring table have
-"red records", spesific button will go to top with red color. Then "Warning message" pops up 
-with animation.
+I used http://textillate.js.org/ . This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.
+
 
 Expand/Narrow Compatibility
 
 You can expand/narrow the div where buttons are kept by clicking arrow button.
 And all buttons are positioned automatically.
 
+Working demo: http://jsfiddle.net/hellyeah/8L49h2rn/
 Türkçe açıklama
 
 Fonksiyoneliteye genel bakış
@@ -90,10 +83,7 @@ Göster/Sakla Özelliği
 - Butona bastığın zaman, o buton ekrandan kaybolacaktır. Başka bir butona bastığında, önceki button gösterilip
 bastığın buton ekrandan kaybolacaktır.
 
-Show/Hide Compatibility:
-
-- When you click button it will be hidden and when you click other button it will be hidden
-too. But Ther other button that was hidden perviously will come back.
+- Her bölümü üzerindeki butonla saklayıp/gösterebilirsin.
 
 - Ve her div'i üzerindeki buttonların yardımıyla gösterip, saklayabilirsin.
 
