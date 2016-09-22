@@ -1,43 +1,50 @@
 # illustration-for-filtering-dom-elements---2
 
-English Explanation
+### **Functionality Overview**
 
-Functionality Overview
+###### *Some different functionalities can be seen here. I intend to list these functionalities before going into details.*
 
-Some different functionalities can be seen here. I intend to list these functionalities before going into details.
+- Sort Compatibility 
+- Show/Hide Capability 
+- Filtering Capability 
+- Letter Animation: Expand/Narrow Compatibility. 
+- Semantical Overview
 
-Sort Compatibility
-Show/Hide Capability
-Filtering Capability
-Letter Animation:
-Expand/Narrow Compatibility.
-Semantical Overview
-
-Sort Compatibility:
+#### Sort Compatibility:
 
 This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.
 
-The buttons are, by default, sorted according to their color. The order is Red, Orange, Blue, Gray , Green. Red -> Failure Orange -> Performance Problem Blue -> Inactive Gray -> Out of date Green -> Success
+The buttons are, by default, sorted according to their color. 
 
-Show/Hide Compatibility:
+	The order is in
+	1. Red -> Failure
+	2. Orange -> Performance Problem
+	3. Blue -> Inactive
+	4. Gray -> Out of date
+	5. Green  -> Success
+
+#### Show/Hide Compatibility:
 
 When you click button it will be hidden and when you click other button it will be hidden too. But the other button that was hidden previously will come back.
 
-Filtering Compatibility:
+#### Filtering Compatibility:
 
 Filtering compatibility comes in handy if you want to see only buttons with a specific color. You can use the checkboxes on the topright of the page to make a selection.
 
 Also you can show/hide every div by clicking button above.
 
-Letter Animation
+#### Letter Animation
 
-I used http://textillate.js.org/ . This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.
+I used [textillate.js](http://textillate.js.org/). This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.
 
-Expand/Narrow Compatibility
+#### Expand/Narrow Compatibility
 
 You can expand/narrow the div where buttons are kept by clicking arrow button. And all buttons are positioned automatically.
+ 
+[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)
 
-Working demo: http://jsfiddle.net/hellyeah/8L49h2rn/ Türkçe açıklama
+
+Türkçe açıklama
 
 Fonksiyoneliteye genel bakış
 
