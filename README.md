@@ -52,11 +52,11 @@ Türkçe açıklama
 
 #####*Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.*
 
-	1. Sıralı Dizilim Özelliği
-	2. Sakla/Göster Özelliği
-	3. Filtreleme Özelliği
-	4. Harf Animasyonu
-	5. Genişlet/Daralt Özelliği
+	- Sıralı Dizilim Özelliği
+	- Sakla/Göster Özelliği
+	- Filtreleme Özelliği
+	- Harf Animasyonu
+	- Genişlet/Daralt Özelliği
 [Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
 
 ###**İçeriğe Genel Bakış**
@@ -67,7 +67,13 @@ Bu ön yüz feliştirmesi izleme yazılımının bir parçasıdır. Kısaca yuka
 
 Buttonlar belli bir dizilimle gelmektedir. Bu dizilim buttonların renklerine göre yapılmıştır.
 
-Dizilim şu şekildedir "kırmızı, turuncu, mavi, gri, yeşil" Kırmızı -> Başarısız. Turuncu -> Performans Problemi. Mavi -> Aktif değil. Gri -> Güncel değil. Yeşil -> Başarılı.
+Dizilim şu şekildedir. 
+
+	1. Kırmızı -> Başarısız 
+	2. Turuncu -> Performans Problemi 
+	3. Mavi -> Aktif değil
+	4. Gri,-> Kayıt güncel değil 
+	5. Yeşil -> Başarılı Kırmızı 
 
 #### Göster/Sakla Özelliği
 
