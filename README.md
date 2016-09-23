@@ -7,7 +7,7 @@
 - Sort Compatibility 
 - Show/Hide Capability 
 - Filtering Capability 
-- Letter Animation: Expand/Narrow Compatibility. 
+- Letter Animation
 - Expand/Narrow Compatibility
 
 ###**Semantical Overview**
@@ -51,11 +51,11 @@ Türkçe açıklama
 ###**Fonksiyoneliteye genel bakış**
 
 #####*Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.*
-- Sort Compatibility 
-- Show/Hide Capability 
-- Filtering Capability 
-- Letter Animation: Expand/Narrow Compatibility. 
-- Expand/Narrow Compatibility
+- Sıralı Dizilim Özelliği
+- Göster/Sakla Özelliği
+- Filtreleme Özelliği
+- Harf Animasyonu 
+- Genişlet/Daral Özelliği
 	
 [Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
 
