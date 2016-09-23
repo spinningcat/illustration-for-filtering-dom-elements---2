@@ -50,16 +50,16 @@ Fonksiyoneliteye genel bakış
 
 Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.
 
-Sıralı Dizilim Özelliği
-Sakla/Göster Özelliği
-Filtreleme Özelliği
-Harf Animasyonu
-Genişlet/Daralt Özelliği
-Working demo: http://jsfiddle.net/hellyeah/8L49h2rn/
+	1. Sıralı Dizilim Özelliği
+	2. Sakla/Göster Özelliği
+	3. Filtreleme Özelliği
+	4. Harf Animasyonu
+	5. Genişlet/Daralt Özelliği
+[Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
 
 İçeriğe Genel Bakış
 
-Sıralı Dizilim Özelliği
+#### Sıralı Dizilim Özelliği
 
 Bu ön yüz feliştirmesi izleme yazılımının bir parçasıdır. Kısaca yukarıda listelediğim özellikleri açıklayayım.
 
@@ -67,7 +67,7 @@ Buttonlar belli bir dizilimle gelmektedir. Bu dizilim buttonların renklerine g�
 
 Dizilim şu şekildedir "kırmızı, turuncu, mavi, gri, yeşil" Kırmızı -> Başarısız. Turuncu -> Performans Problemi. Mavi -> Aktif değil. Gri -> Güncel değil. Yeşil -> Başarılı.
 
-Göster/Sakla Özelliği
+#### Göster/Sakla Özelliği
 
 Butona bastığın zaman, o buton ekrandan kaybolacaktır. Başka bir butona bastığında, önceki button gösterilip bastığın buton ekrandan kaybolacaktır.
 
@@ -75,16 +75,16 @@ Her bölümü üzerindeki butonla saklayıp/gösterebilirsin.
 
 Ve her div'i üzerindeki buttonların yardımıyla gösterip, saklayabilirsin.
 
-Filtreleme Özelliği
+#### Filtreleme Özelliği
 
 Filtreleme özelliği işe yarayabilir. Eğer belli renkteki buttonları görmek istiyorsan. Sayfanın ağ üst kısmındaki radyo butonlarını kullanarak, istediğin renkteki butonları görebilirsin.
 
-Harf Animasyonu
+#### Harf Animasyonu
 
-Bu plugini kullandım. http://textillate.js.org/
+Bu plugini kullandım. [textillate.js](http://textillate.js.org/)
 
 Harf animasyonu, sistemi izleyen kullanıcıyı uyarmak için düşünüldü. Her hangibir sistem izleme tablosu kırmızı bir kayda sahipse, kırmızı renge dönen button en yukarı çıkacak. Ve animasyonlu "uyarı" mesajı ekranda belirecek.
 
-Genişlet/Daralt Özelliği.
+#### Genişlet/Daralt Özelliği.
 
 Divi daraltabilir ya da genişletebilirsin. Bunun için "ok" buttonuna tıklaman gerekmektedir. Div genişlediğinde ya da daraldığında, bütün butonları otomatik olarak yetleştirileceğini göreceksin..
