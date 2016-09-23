@@ -51,12 +51,12 @@ Türkçe açıklama
 ###**Fonksiyoneliteye genel bakış**
 
 #####*Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.*
-
-	- Sıralı Dizilim Özelliği
-	- Sakla/Göster Özelliği
-	- Filtreleme Özelliği
-	- Harf Animasyonu
-	- Genişlet/Daralt Özelliği
+- Sort Compatibility 
+- Show/Hide Capability 
+- Filtering Capability 
+- Letter Animation: Expand/Narrow Compatibility. 
+- Expand/Narrow Compatibility
+	
 [Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
 
 ###**İçeriğe Genel Bakış**
