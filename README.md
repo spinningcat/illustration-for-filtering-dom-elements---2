@@ -4,11 +4,11 @@
 
 ###### *Some different functionalities can be seen here. I intend to list these functionalities before going into details.*
 
-- Sort Compatibility 
-- Show/Hide Capability 
-- Filtering Capability 
-- Letter Animation: Expand/Narrow Compatibility. 
-
+⋅⋅* Sort Compatibility 
+⋅⋅* Show/Hide Capability 
+⋅⋅* Filtering Capability 
+⋅⋅* Letter Animation: Expand/Narrow Compatibility. 
+⋅⋅* Expand/Narrow Compatibility
 
 ###**Semantical Overview**
 
@@ -52,11 +52,11 @@ Türkçe açıklama
 
 #####*Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.*
 
-	- Sıralı Dizilim Özelliği
-	- Sakla/Göster Özelliği
-	- Filtreleme Özelliği
-	- Harf Animasyonu
-	- Genişlet/Daralt Özelliği
+	⋅⋅* Sıralı Dizilim Özelliği
+	⋅⋅* Sakla/Göster Özelliği
+	⋅⋅* Filtreleme Özelliği
+	⋅⋅* Harf Animasyonu
+	⋅⋅* Genişlet/Daralt Özelliği
 [Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
 
 ###**İçeriğe Genel Bakış**
