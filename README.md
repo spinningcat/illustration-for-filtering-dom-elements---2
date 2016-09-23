@@ -8,7 +8,9 @@
 - Show/Hide Capability 
 - Filtering Capability 
 - Letter Animation: Expand/Narrow Compatibility. 
-- Semantical Overview
+
+
+###**Semantical Overview**
 
 #### Sort Compatibility:
 
@@ -46,9 +48,9 @@ You can expand/narrow the div where buttons are kept by clicking arrow button. A
 
 Türkçe açıklama
 
-Fonksiyoneliteye genel bakış
+###**Fonksiyoneliteye genel bakış**
 
-Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.
+#####*Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylarına inmek istiyorum.*
 
 	1. Sıralı Dizilim Özelliği
 	2. Sakla/Göster Özelliği
@@ -57,7 +59,7 @@ Programın sahip olduğu özelliklere listeleyip daha sonraki bölümde detaylar
 	5. Genişlet/Daralt Özelliği
 [Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
 
-İçeriğe Genel Bakış
+###**İçeriğe Genel Bakış**
 
 #### Sıralı Dizilim Özelliği
 
