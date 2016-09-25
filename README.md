@@ -20,6 +20,7 @@ The buttons are, by default, sorted according to their color.
 #####**The order is shown on the table** 
 
 __The meaning of each color is explained as well. In case of being awaring what that is in real design__
+
 No | Color | Short Explanation | Long Ones 
 --- | --- | --- | ---
 1 | Red | Failure | No response in return. The page you request is not accessible. 
