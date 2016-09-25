@@ -71,13 +71,17 @@ Bu ön yüz feliştirmesi izleme yazılımının bir parçasıdır. Kısaca yuka
 
 Buttonlar belli bir dizilimle gelmektedir. Bu dizilim buttonların renklerine göre yapılmıştır.
 
-Dizilim şu şekildedir. 
+__Dizilim şu şekildedir.__ 
 
-	1. Kırmızı -> Başarısız 
-	2. Turuncu -> Performans Problemi 
-	3. Mavi -> Aktif değil
-	4. Gri,-> Kayıt güncel değil 
-	5. Yeşil -> Başarılı Kırmızı 
+__Uzun açıklamalarıyla birlikte verilmiştir. Tasarımdaki gerçek anlamlarının ne olduğunu belirtmek amaçlanmıştır.__
+
+No | Renk | Kısa Açıklaması | Uzun Açıklaması 
+--- | --- | --- | ---
+1 | Kırmızı | Başarısız | Response yok. Request yaptığın web sitesine ulaşılamıyor.
+2 | Turuncu | Performance Problemi | Response zamanı, beklediğin zamanın üzerinde.
+3 | Mavi | Aktif değil | Kayıt kontrol edilmiyor.
+4 | Gri | Güncel değil | Kayıt eski. Muhtemelen uzun süredir kayıt kontrol edilmiyor.
+5 | Yeşil | Başarılı | Request ve response tamamen beklediğin gibi hiç bir sorun yok.
 
 #### Göster/Sakla Özelliği
 
