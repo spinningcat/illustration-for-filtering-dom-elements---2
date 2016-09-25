@@ -73,7 +73,9 @@ Buttonlar belli bir dizilimle gelmektedir. Bu dizilim buttonların renklerine g�
 
 __Dizilim şu şekildedir.__ 
 
-__Uzun açıklamalarıyla birlikte verilmiştir. Tasarımdaki gerçek anlamlarının ne olduğunu belirtmek amaçlanmıştır.__
+__Uzun açıklamalarıyla birlikte verilmiştir.__
+
+__Tasarımdaki gerçek anlamlarının ne olduğunu belirtmek amaçlanmıştır.__
 
 No | Renk | Kısa Açıklaması | Uzun Açıklaması 
 --- | --- | --- | ---
