@@ -10,6 +10,8 @@
 - Letter Animation
 - Expand/Narrow Compatibility
 
+#**[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)**
+
 ###**Semantical Overview**
 
 #### Sort Compatibility:
@@ -48,9 +50,6 @@ I used [textillate.js](http://textillate.js.org/). This letter animation is for 
 
 You can expand/narrow the div where buttons are kept by clicking arrow button. And all buttons are positioned automatically.
  
-[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)
-
-
 Türkçe açıklama
 
 ###**Fonksiyoneliteye genel bakış**
@@ -62,7 +61,7 @@ Türkçe açıklama
 - Harf Animasyonu 
 - Genişlet/Daral Özelliği
 	
-[Working demo] (http://jsfiddle.net/hellyeah/8L49h2rn/)
+#**[Çalışan Örnek](http://jsfiddle.net/hellyeah/8L49h2rn/)**
 
 ###**İçeriğe Genel Bakış**
 
