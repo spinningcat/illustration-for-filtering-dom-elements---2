@@ -10,7 +10,7 @@
 - Letter Animation
 - Expand/Narrow Compatibility
 
-#**[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)**
+##**[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)**
 
 ###**Semantical Overview**
 
@@ -61,7 +61,7 @@ Türkçe açıklama
 - Harf Animasyonu 
 - Genişlet/Daral Özelliği
 	
-#**[Çalışan Örnek](http://jsfiddle.net/hellyeah/8L49h2rn/)**
+##**[Çalışan Örnek](http://jsfiddle.net/hellyeah/8L49h2rn/)**
 
 ###**İçeriğe Genel Bakış**
 
