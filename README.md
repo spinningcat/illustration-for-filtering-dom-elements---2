@@ -44,7 +44,7 @@ Also you can show/hide every div by clicking button above.
 
 #### Letter Animation
 
-I used ##**[textillate.js](http://textillate.js.org/)**. This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.
+I used **[textillate.js](http://textillate.js.org/)**. This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.
 
 #### Expand/Narrow Compatibility
 
@@ -93,7 +93,7 @@ Filtreleme özelliği işe yarayabilir. Eğer belli renkteki buttonları görmek
 
 #### Harf Animasyonu
 
-Bu plugini kullandım. ##**[textillate.js](http://textillate.js.org/)**
+Bu plugini kullandım. **[textillate.js](http://textillate.js.org/)**
 
 Harf animasyonu, sistemi izleyen kullanıcıyı uyarmak için düşünüldü. Her hangibir sistem izleme tablosu kırmızı bir kayda sahipse, kırmızı renge dönen button en yukarı çıkacak. Ve animasyonlu "uyarı" mesajı ekranda belirecek.
 
