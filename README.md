@@ -18,7 +18,7 @@ This frontend development is also part of Monitoring software. Lets briefly touc
 
 The buttons are, by default, sorted according to their color. 
 #####**The order is shown on the table**
-No | Color | Short Explanation | long ones 
+No | Color | Short Explanation | Long Ones 
 --- | --- | --- | ---
 1 | Red | Failure | No response in return. The page you request is not accessible. 
 2 | Orange | Performance Problem | You can the response but took really long time than you expect.
