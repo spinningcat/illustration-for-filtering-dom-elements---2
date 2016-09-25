@@ -14,16 +14,16 @@
 
 #### Sort Compatibility:
 
-⋅⋅⋅ This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.⋅⋅
+This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.
 
 The buttons are, by default, sorted according to their color. 
 
-	The order is in
-	1. Red -> Failure
-	2. Orange -> Performance Problem
-	3. Blue -> Inactive
-	4. Gray -> Out of date
-	5. Green  -> Success
+	The order is shown on the table
+	1 | Red | Failure
+	2 | Orange | Performance Problem
+	3 | Blue | Inactive
+	4 | Gray | Out of date
+	5 | Green | Success
 
 #### Show/Hide Compatibility:
 
