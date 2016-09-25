@@ -17,13 +17,14 @@
 This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.
 
 The buttons are, by default, sorted according to their color. 
-
-	The order is shown on the table
-	1 | Red | Failure
-	2 | Orange | Performance Problem
-	3 | Blue | Inactive
-	4 | Gray | Out of date
-	5 | Green | Success
+#####**The order is shown on the table**
+No | Color | Short Explanation | long ones 
+--- | --- | --- | ---
+1 | Red | Failure | No response in return. The page you request is not accessible. 
+2 | Orange | Performance Problem | You can the response but took really long time than you expect.
+3 | Blue | Inactive | The record is not controlled at all.
+4 | Gray | Out of date | There is no new records. Threads are probably dead.
+5 | Green | Success | Request is done and proper response i return. Everything set.
 
 #### Show/Hide Compatibility:
 
