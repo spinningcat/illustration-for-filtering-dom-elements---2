@@ -17,7 +17,8 @@
 This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.
 
 The buttons are, by default, sorted according to their color. 
-#####**The order is shown on the table** 
+
+__The order is shown on the table__ 
 
 __The meaning of each color is explained as well. In case of being awaring what that is in real design__
 
