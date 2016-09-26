@@ -11,7 +11,7 @@
 - Letter Animation
 - Expand/Narrow Compatibility
 
-##**[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)**
+#**[Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/)**
 
 ###**Semantical Overview**
 
@@ -45,7 +45,7 @@ No | Color | Short Explanation | Long Ones
 
 #### Letter Animation
 
-####*I used **[textillate.js](http://textillate.js.org/)**. 
+#**I used [textillate.js](http://textillate.js.org/)**. 
 
 *This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.*
 
