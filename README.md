@@ -1,5 +1,4 @@
 # illustration-for-filtering-dom-elements---2
-##English Explanation
 
 ### **Functionality Overview**
 
