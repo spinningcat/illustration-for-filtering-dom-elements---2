@@ -10,9 +10,9 @@
 - Letter Animation
 - Expand/Narrow Compatibility
 
-#** [Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/embedded/result/)**
+# [Working Demo](http://jsfiddle.net/hellyeah/8L49h2rn/embedded/result/)
 
-###** Semantical Overview**
+### Semantical Overview
 
 * This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.*
 
