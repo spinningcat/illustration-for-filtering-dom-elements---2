@@ -14,15 +14,15 @@
 
 ### Semantical Overview
 
-* This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.*
+* This frontend development is also part of Monitoring software. Lets briefly touch on the features of this program that I have listed above.
 
 #### Sort Compatibility:
 
-* The buttons are, by default, sorted according to their color.*
+* The buttons are, by default, sorted according to their color.
 
-* The order is shown on the table*
+* The order is shown on the table.
 
-* The meaning of each color is explained as well. In case of being awaring what that is in real design.*
+* The meaning of each color is explained as well. In case of being awaring what that is in real design.
 
 No | Color | Short Explanation | Long Ones 
 --- | --- | --- | ---
@@ -34,21 +34,21 @@ No | Color | Short Explanation | Long Ones
 
 #### Show/Hide Compatibility:
 
-* When you click button it will be hidden and when you click other button it will be hidden too. But the other button that was hidden previously will come back.*
+* When you click button it will be hidden and when you click other button it will be hidden too. But the other button that was hidden previously will come back.
 
 #### Filtering Compatibility:
 
-* Filtering compatibility comes in handy if you want to see only buttons with a specific color. You can use the checkboxes on the topright of the page to make a selection.*
+* Filtering compatibility comes in handy if you want to see only buttons with a specific color. You can use the checkboxes on the topright of the page to make a selection.
 
-* Also you can show/hide every div by clicking button above.*
+* Also you can show/hide every div by clicking button above.
 
 #### Letter Animation
 
-#** I used [textillate.js](http://textillate.js.org/)**. 
+# I used [textillate.js](http://textillate.js.org/). 
 
-* This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.*
+* This letter animation is for notifying person/people who use that system. In case of emergency on the other hand, any system monitoring table have "red records", specific button will go to top with red color. Then "Warning message" pops up with animation.
 
 #### Expand/Narrow Compatibility
 
-* You can expand/narrow the div where buttons are kept by clicking arrow button. And all buttons are positioned utomatically.*
+* You can expand/narrow the div where buttons are kept by clicking arrow button. And all buttons are positioned automatically.
  
